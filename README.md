@@ -1,0 +1,2 @@
+# GenAIMCQ
+MCQ Demo project
